@@ -77,3 +77,26 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.contributors-button {
+    background-color: red;
+    border-radius: 20px;
+    padding: 10px;
+    color: white;
+    border: 2px solid green;
+}
+
+.contributorsbutton {
+    text-align: center;
+    color: white;
+}
+
+.contributorsbutton a {
+    text-decoration: none;
+}
+.contributors-button:hover {
+    background-color: green;
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid red;
+}
